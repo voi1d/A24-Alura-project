@@ -1,6 +1,6 @@
 # Movies Search A24 Project
 
-Este é um simples projeto de pesquisa de filmes da A24 que utiliza HTML, CSS e JavaScript para criar uma interface de busca de filmes baseada em um conjunto de dados predefinidos.
+Este é um simples projeto de pesquisa de filmes da A24 feito na imersao do Alura + Google Gemini que utiliza HTML, CSS e JavaScript para criar uma interface de busca de filmes baseada em um conjunto de dados predefinidos.
 
 ## Funcionalidades
 
